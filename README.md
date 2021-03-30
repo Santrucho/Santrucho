@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santrucho
 - Cordoba, Argentina
-- 🌱 Computer Science student at Facultad de Matematica, Astronomia, Fisica y Computacion
+- Computer Science student at Facultad de Matematica, Astronomia, Fisica y Computacion
 - 📫 saantibalma@gmail.com
 
 <!---
